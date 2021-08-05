@@ -481,3 +481,17 @@ npm install redux-thunk
 
 
 saga 를 쓰면 요청을 100개 받으면 제일 마지막에 온것만 처리를 하게 된다.
+
+
+
+---------------------------------------------------
+
+0805
+Next 빌드해서 올리는거
+https 까지 하는거 - 보안을 위해서
+
+local_front
+aws_front
+
+aws_front 에서 ubuntu 계정을 열어준다
+ssh -i "hyejun-laptop.pem" ubuntu@ec2-3-34-51-137.ap-northeast-2.compute.amazonaws.com
